@@ -27,3 +27,22 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+---
+
+<!-- github-standardizer:start -->
+## Overview
+
+Web application for the GuideMe project.
+
+## Technology indicators
+
+- Node.js ecosystem
+- Angular
+- Docker
+
+## Getting started
+
+Check the project manifests and existing documentation for supported setup commands. No installation instructions were inferred.
+
+<!-- github-standardizer:end -->
